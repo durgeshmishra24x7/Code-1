@@ -1,0 +1,9 @@
+j= int(input("enter the number :- "))
+k=j
+def hello():
+    if k>2:
+        print("Hello World")
+    else:
+        j= int(input("Previous number is lesser than 2, Please enter number more than 2 :- ")
+
+hello()
